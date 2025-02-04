@@ -1,10 +1,3 @@
-//Elo there
-//This is my mod for infinite chef
-//Hope you like it. You can use the code here in your mod, just credit me!
-
-
-//flowers
-
 addIngredient("sunflower",{
     type:"decor",
     color:"#B67A34",
@@ -33,8 +26,6 @@ addIngredient("rose_petal",{
     dishName:"rose_petal",
     keywords:"rose,flower,petal,"
 });
-
-//dyes
 
 addIngredient("orange_dye",{
     type:"red_dye",
@@ -119,3 +110,21 @@ addIngredient("black_dye",{
     color:"#000000",
     adj:"black",
 });
+
+editIngredient("dye",{
+    name:"random_dye",
+    color:"CDE6DD",
+});
+
+editIngredient("red_40",{
+    name:"red_dye",
+});
+
+editIngredient("orange",{
+    name:"orange_slice",
+});
+
+editIngredient("citric_acid",{
+    name:"random_dye",
+    color:"#CDE6DD",
+    });
