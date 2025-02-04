@@ -6,7 +6,7 @@
 //flowers
 
 addIngredient("sunflower",{
-    colour:"#de9f3a",
+    colour:"#c7721e",
     type:"decor",
     shape:"flower",
     scale:0.5,
