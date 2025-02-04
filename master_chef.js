@@ -105,7 +105,7 @@ editIngredient("dye",{
 });
 
 editIngredient("red_40",{
-    name:"red_dye"
+    name:"red_dye",
 });
 
 editIngredient("Orange",{
@@ -113,5 +113,5 @@ editIngredient("Orange",{
 });
 
 editIngredient("citric_acid",{
-    color:"#CDE6DD",
+    color:"#CDE6DD"
 });
