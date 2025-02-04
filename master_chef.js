@@ -11,21 +11,25 @@ addIngredient("sunflower",{
     shape:"flower",
     scale:0.5,
     keywords:"sun,flower,petal,",
+    dishName:"sunflower",
     broken:"sunflower_seed"
   });
 
 addIngredient("rose",{
-    colour:"#a32654",
+    colour:"#bc2ac9",
     type:"decor",
     shape:"flower_rose",
     scale:0.5,
     keywords:"rose,flower,petal,",
+    dishName:"rose",
     broken:"rose_petal"
     });
 
 addIngredient("rose_petal",{
-    colour:"#a32654",
+    colour:"#bc2ac9",
     type:"decor",
     shape:"bean",
     scale:0.5,
+    dishName:"rose_petal",
     keywords:"rose,flower,petal,"
+});
