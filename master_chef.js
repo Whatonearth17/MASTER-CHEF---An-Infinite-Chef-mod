@@ -7,7 +7,7 @@
 
 addIngredient("sunflower",{
     type:"decor",
-    colour:"#c7721e",
+    color:"#c7721e",
     shape:"flower",
     scale:0.5,
     keywords:"sun,flower,petal,",
@@ -17,7 +17,7 @@ addIngredient("sunflower",{
 
 addIngredient("rose",{
     type:"decor",
-    colour:"#bc2ac9",
+    color:"#bc2ac9",
     shape:"flower_rose",
     scale:0.5,
     keywords:"rose,flower,petal,",
@@ -27,7 +27,7 @@ addIngredient("rose",{
 
 addIngredient("rose_petal",{
     type:"decor",
-    colour:"#bc2ac9",
+    color:"#bc2ac9",
     shape:"bean",
     scale:0.5,
     dishName:"rose_petal",
