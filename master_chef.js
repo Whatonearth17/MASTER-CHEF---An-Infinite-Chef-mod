@@ -28,4 +28,4 @@ addIngredient("rose_petal",{
     type:"decor",
     shape:"bean",
     scale:0.5,
-    keywords:"rose,flower,petal,",
+    keywords:"rose,flower,petal,"
