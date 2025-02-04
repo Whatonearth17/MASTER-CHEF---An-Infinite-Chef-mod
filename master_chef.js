@@ -93,18 +93,6 @@ addIngredient("white_dye",{
     adj:"white",
 });
 
-addIngredient("light_gray_dye",{
-    type:"red_dye",
-    color:"#C6C6C6",
-    adj:"light_gray",
-});
-
-addIngredient("gray_dye",{
-    type:"red_dye",
-    color:"#F7F7F7",
-    adj:"gray",
-});
-
 addIngredient("black_dye",{
     type:"red_dye",
     color:"#000000",
@@ -117,14 +105,13 @@ editIngredient("dye",{
 });
 
 editIngredient("red_40",{
-    name:"red_dye",
+    name:"red_dye"
 });
 
 editIngredient("orange",{
-    name:"orange_slice",
+    name:"orange_slice"
 });
 
 editIngredient("citric_acid",{
-    name:"random_dye",
     color:"#CDE6DD",
-    });
+});
