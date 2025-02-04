@@ -101,14 +101,14 @@ addIngredient("black_dye",{
 
 editIngredient("dye",{
     name:"random_dye",
-    color:"CDE6DD",
+    color:"CDE6DD"
 });
 
 editIngredient("red_40",{
     name:"red_dye"
 });
 
-editIngredient("orange",{
+editIngredient("Orange",{
     name:"orange_slice"
 });
 
