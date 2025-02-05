@@ -32,7 +32,7 @@ addIngredient("korean_radish",{
     color:"#CADFA6",
     shape:"bulb_down",
     group:"vegetable",
-    scale:0.5,
+    scale:1.0,
     keywords:"radish",
     dishName:"korean_radish",
     cookColor:"#BBAA95",
@@ -45,7 +45,7 @@ addIngredient("chopped_korean_radish",{
     group:"vegetable",
     color:"#CADFA6",
     shape:"beans_some_flat",
-    scale:0.5,
+    scale:1.0,
     dishName:"chopped_korean_radish",
     cookColor:"#BBAA95",
     hidden:true,
@@ -83,13 +83,25 @@ addIngredient("jellyfish",{
     shape:"jellyfish",
     group:"fish",
     scale:1.0,
-    a:5,
+    a:0.5,
     keywords:"fish,jelly,seafood",
     dishName:"jellyfish",
     cookColor:"#99AEB1",
     adj:"jellyfish",
     broken:"chopped_jellyfish"
   });
+
+addIngredient("chopped_jellyfish",{
+    type:"fish",
+    group:"fish",
+    color:"#4C121B",
+    shape:"rectangle_thinner",
+    scale:1.0,
+    dishName:"chopped_jellyfish",
+    cookColor:"#3E1E1B",
+    hidden:true,
+    adj:"chopped_jellyfish"
+    });
 
 addIngredient("orange_dye",{
     type:"red_dye",
