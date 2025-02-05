@@ -125,7 +125,6 @@ addIngredient("jackfruit_juice",{
     shape:"droplets_some",
     scale:0.5,
     dishName:"jackfruit_juice",
-    hidden:true,
     adj:"jackfruit_juice"
     });
 
