@@ -124,7 +124,7 @@ addIngredient("jackfruit_juice",{
     color:"#AB961F",
     shape:"droplets_some",
     scale:0.5,
-    hidden:false,
+    hidden:"false",
     keywords:"spiky,fruit,exotic,jack,stinky,juice",
     dishName:"jackfruit_juice",
     adj:"jackfruit_juice"
