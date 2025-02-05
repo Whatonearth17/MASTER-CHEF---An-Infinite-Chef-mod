@@ -102,6 +102,7 @@ addIngredient("black_dye",{
 editIngredient("dye",{
     name:"random_dye",
     adj:"random,dye",
+    dishName:"random_dye",
     keywords:"random,dye"
 });
 
@@ -110,5 +111,5 @@ editIngredient("citric_acid",{
 });
 
 editIngredient("red_40",{
-    color:"#D51D1D"
+    color:"#D51D1D",
 });
