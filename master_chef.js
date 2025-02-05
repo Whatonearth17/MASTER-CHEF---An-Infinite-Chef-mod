@@ -210,3 +210,6 @@ editIngredient("citric_acid",{
     color:"#CDE6DD"
 });
 
+editIngredient("star_anise",{
+    shape:"flower_x_thin",
+});
