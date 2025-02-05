@@ -100,7 +100,7 @@ addIngredient("black_dye",{
 });
 
 editIngredient("dye",{
-    hidden:true
+    hidden=true
 });
 
 editIngredient("citric_acid",{
