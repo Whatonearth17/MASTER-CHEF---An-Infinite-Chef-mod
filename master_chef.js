@@ -104,10 +104,6 @@ editIngredient("dye",{
     color:"CDE6DD"
 });
 
-editIngredient("red_40",{
-    name:"red_dye"
-});
-
 editIngredient("Orange",{
     name:"orange_slice"
 });
