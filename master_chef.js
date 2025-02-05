@@ -114,7 +114,20 @@ addIngredient("jackfruit",{
     dishName:"jackfruit",
     cookColor:"#3C4522",
     adj:"jackfruit",
+    broken:"jackfruit_juice
   });
+
+addIngredient("jackfruit_juice",{
+    type:"water",
+    group:"other",
+    behavior: 1,
+    color:"#AB961F",
+    shape:"droplets_some",
+    scale:0.5,
+    dishName:"jackfruit_juice",
+    hidden:true,
+    adj:"jackfruit_juice"
+    });
 
 addIngredient("orange_dye",{
     type:"red_dye",
