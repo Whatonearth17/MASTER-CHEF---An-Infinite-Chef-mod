@@ -104,6 +104,18 @@ addIngredient("chopped_jellyfish",{
     adj:"chopped_jellyfish"
     });
 
+addIngredient("jackfruit",{
+    type:"fruit",
+    color:"#ADBF77",
+    shape:"circle_thorny_ml",
+    group:"fruit",
+    scale:1.0,
+    keywords:"spiky,fruit,exotic,jack,stinky",
+    dishName:"jackfruit",
+    cookColor:"#3C4522",
+    adj:"jackfruit",
+  });
+
 addIngredient("orange_dye",{
     type:"red_dye",
     color:"#E28315",
