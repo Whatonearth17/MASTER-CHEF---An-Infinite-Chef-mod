@@ -110,6 +110,27 @@ editIngredient("citric_acid",{
     color:"#CDE6DD"
 });
 
-editIngredient("red_40",{
-    color:"#D51D1D",
-});
+addIngredient("korean_radish",{
+    type:"vegetable",
+    group:"vegetable",
+    color:"#CADFA6",
+    shape:"bulb_down",
+    scale:0.5,
+    keywords:"radish,korea,",
+    dishName:"korean_radish",
+    cookColor:"#BBAA95",
+    adj:"korean_radish",
+    broken:"chopped_korean_radish"
+  });
+
+addIngredient("chopped_korean_radish",{
+    type:"vegetable",
+    group:"vegetable",
+    color:"#CADFA6",
+    shape:"beans_some_flat",
+    scale:0.5,
+    dishName:"chopped_korean_radish",
+    cookColor:"#BBAA95",
+    hidden="true",
+    adj:"chopped_korean_radish"
+  });
