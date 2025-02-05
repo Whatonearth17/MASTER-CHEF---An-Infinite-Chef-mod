@@ -48,7 +48,7 @@ addIngredient("chopped_korean_radish",{
     scale:0.5,
     dishName:"chopped_korean_radish",
     cookColor:"#BBAA95",
-    hidden="true",
+    hidden:true,
     adj:"chopped_korean_radish"
   });
 
@@ -127,8 +127,6 @@ addIngredient("black_dye",{
 editIngredient("dye",{
     name:"random_dye",
     adj:"random,dye",
-    dishName:"random_dye",
-    keywords:"random,dye"
 });
 
 editIngredient("citric_acid",{
