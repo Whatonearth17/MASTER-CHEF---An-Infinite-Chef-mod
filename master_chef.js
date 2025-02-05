@@ -77,6 +77,20 @@ addIngredient("minced_dino_meat",{
     adj:"ground_primitive_meat"
     });
 
+addIngredient("jellyfish",{
+    type:"fish",
+    color:"#BDD2D5",
+    shape:"jellyfish",
+    group:"fish",
+    scale:1.0,
+    a:5,
+    keywords:"fish,jelly,seafood",
+    dishName:"jellyfish",
+    cookColor:"#99AEB1",
+    adj:"jellyfish",
+    broken:"chopped_jellyfish"
+  });
+
 addIngredient("orange_dye",{
     type:"red_dye",
     color:"#E28315",
