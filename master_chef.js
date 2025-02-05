@@ -124,4 +124,3 @@ addIngredient("korean_radish",{
     hidden="true",
     dishName:"korean_radish",
     adj:"chopped_korean_radish",
- });
