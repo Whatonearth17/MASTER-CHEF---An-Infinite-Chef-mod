@@ -109,7 +109,7 @@ addIngredient("jackfruit",{
     color:"#ADBF77",
     shape:"circle_thorny_ml",
     group:"fruit",
-    scale:1.0,
+    scale:1.2,
     keywords:"spiky,fruit,exotic,jack,stinky",
     dishName:"jackfruit",
     cookColor:"#3C4522",
@@ -124,7 +124,6 @@ addIngredient("jackfruit_juice",{
     color:"#AB961F",
     shape:"droplets_some",
     scale:0.5,
-    hidden:"false",
     keywords:"spiky,fruit,exotic,jack,stinky,juice",
     dishName:"jackfruit_juice",
     adj:"jackfruit_juice"
