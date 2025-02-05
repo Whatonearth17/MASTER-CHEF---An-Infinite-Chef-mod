@@ -27,6 +27,31 @@ addIngredient("rose_petal",{
     keywords:"rose,flower,petal,"
 });
 
+addIngredient("korean_radish",{
+    type:"vegetable",
+    group:"vegetable",
+    color:"#CADFA6",
+    shape:"bulb_down",
+    scale:0.5,
+    keywords:"radish,korea,",
+    dishName:"korean_radish",
+    cookColor:"#BBAA95",
+    adj:"korean_radish",
+    broken:"chopped_korean_radish"
+  });
+
+addIngredient("chopped_korean_radish",{
+    type:"vegetable",
+    group:"vegetable",
+    color:"#CADFA6",
+    shape:"beans_some_flat",
+    scale:0.5,
+    dishName:"chopped_korean_radish",
+    cookColor:"#BBAA95",
+    hidden="true",
+    adj:"chopped_korean_radish"
+  });
+
 addIngredient("orange_dye",{
     type:"red_dye",
     color:"#E28315",
@@ -110,27 +135,3 @@ editIngredient("citric_acid",{
     color:"#CDE6DD"
 });
 
-addIngredient("korean_radish",{
-    type:"vegetable",
-    group:"vegetable",
-    color:"#CADFA6",
-    shape:"bulb_down",
-    scale:0.5,
-    keywords:"radish,korea,",
-    dishName:"korean_radish",
-    cookColor:"#BBAA95",
-    adj:"korean_radish",
-    broken:"chopped_korean_radish"
-  });
-
-addIngredient("chopped_korean_radish",{
-    type:"vegetable",
-    group:"vegetable",
-    color:"#CADFA6",
-    shape:"beans_some_flat",
-    scale:0.5,
-    dishName:"chopped_korean_radish",
-    cookColor:"#BBAA95",
-    hidden="true",
-    adj:"chopped_korean_radish"
-  });
