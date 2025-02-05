@@ -95,7 +95,7 @@ addIngredient("chopped_jellyfish",{
     type:"fish",
     group:"fish",
     color:"#BDD2D5",
-    shape:"rectangle_thinner",
+    shape:"beans_some_flat",
     scale:1.0,
     a:0.5,
     dishName:"chopped_jellyfish",
