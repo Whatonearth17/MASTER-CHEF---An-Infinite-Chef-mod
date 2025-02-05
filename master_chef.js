@@ -115,7 +115,7 @@ addIngredient("korean_radish",{
     broken:"chopped_korean_radish"
   });
 
-addIngredient("korean_radish",{
+addIngredient("chopped_korean_radish",{
     type:"vegetable",
     color:"#CADFA6",
     cookColor:"#BBAA95",
