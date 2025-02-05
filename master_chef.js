@@ -104,10 +104,6 @@ editIngredient("dye",{
     color:"CDE6DD"
 });
 
-editIngredient("Orange",{
-    name:"orange_slice"
-});
-
 editIngredient("citric_acid",{
     color:"#CDE6DD"
 });
