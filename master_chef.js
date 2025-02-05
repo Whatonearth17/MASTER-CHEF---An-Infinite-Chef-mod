@@ -114,7 +114,7 @@ addIngredient("jackfruit",{
     dishName:"jackfruit",
     cookColor:"#3C4522",
     adj:"jackfruit",
-    broken:"jackfruit_juice
+    broken:"jackfruit_juice"
   });
 
 addIngredient("jackfruit_juice",{
