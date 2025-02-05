@@ -29,7 +29,7 @@ addIngredient("rose_petal",{
 
 addIngredient("orange_dye",{
     type:"red_dye",
-    color:"#9F3217",
+    color:"#E28315",
     adj:"orange",
 });
 
@@ -100,10 +100,7 @@ addIngredient("black_dye",{
 });
 
 editIngredient("dye",{
-    name:"random_dye",
-    color:"#CDE6DD,#9F3217,CE1313,#FFEE00,#00FF00,#10c100,#00FFFF,#00CBFF,#0000FF,#FF00FF,#6F1A82,#DD78D1,#FFFFFF,#000000",
-    keywords:"random,randomized,mystery,dye",
-    adj:"randomly_dyed"
+    hidden:true
 });
 
 editIngredient("citric_acid",{
