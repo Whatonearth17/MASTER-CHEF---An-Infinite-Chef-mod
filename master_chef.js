@@ -99,11 +99,6 @@ addIngredient("black_dye",{
     adj:"black",
 });
 
-/*editIngredient("dye",{
-    hidden:   
-*/
-});
-
 editIngredient("citric_acid",{
     color:"#CDE6DD"
 });
