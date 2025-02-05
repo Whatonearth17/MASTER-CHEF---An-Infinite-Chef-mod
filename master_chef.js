@@ -29,7 +29,7 @@ addIngredient("rose_petal",{
 
 addIngredient("orange_dye",{
     type:"red_dye",
-    color:"#FFBB00",
+    color:"#9F3217",
     adj:"orange",
 });
 
@@ -77,14 +77,14 @@ addIngredient("purple_dye",{
 
 addIngredient("magenta_dye",{
     type:"red_dye",
-    color:"#BF00FF",
+    color:"#6F1A82",
     adj:"magenta",
 });
 
 addIngredient("pink_dye",{
     type:"red_dye",
-    color:"#BF00FF",
-    adj:"magenta",
+    color:"#DD78D1",
+    adj:"pink",
 });
 
 addIngredient("white_dye",{
@@ -101,7 +101,7 @@ addIngredient("black_dye",{
 
 editIngredient("dye",{
     name:"random_dye",
-    color:"CDE6DD",
+    color:"#CDE6DD,#9F3217,CE1313,#FFEE00,#00FF00,#10c100,#00FFFF,#00CBFF,#0000FF,#FF00FF,#6F1A82,#DD78D1,#FFFFFF,#000000",
     keywords:"random,randomized,mystery,dye",
     adj:"randomly_dyed"
 });
