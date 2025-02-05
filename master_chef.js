@@ -99,8 +99,9 @@ addIngredient("black_dye",{
     adj:"black",
 });
 
-editIngredient("dye",{
-    hidden:
+/*editIngredient("dye",{
+    hidden:   
+*/
 });
 
 editIngredient("citric_acid",{
@@ -128,4 +129,4 @@ addIngredient("korean_radish",{
     hidden="true",
     dishName:"korean_radish",
     adj:"chopped_korean_radish",
-    });
+ });
