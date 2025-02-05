@@ -29,11 +29,11 @@ addIngredient("rose_petal",{
 
 addIngredient("korean_radish",{
     type:"vegetable",
-    group:"vegetable",
     color:"#CADFA6",
     shape:"bulb_down",
+    group:"vegetable",
     scale:0.5,
-    keywords:"radish,korea,",
+    keywords:"radish",
     dishName:"korean_radish",
     cookColor:"#BBAA95",
     adj:"korean_radish",
