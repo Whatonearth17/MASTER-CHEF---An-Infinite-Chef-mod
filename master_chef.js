@@ -1,6 +1,5 @@
 addIngredient("sunflower",{
     type:"decor",
-    group:"other",
     color:"#B67A34",
     shape:"flower",
     scale:0.5,
@@ -11,7 +10,6 @@ addIngredient("sunflower",{
 
 addIngredient("rose",{
     type:"decor",
-    group:"other",
     color:"#B0256F",
     shape:"flower_rose",
     scale:0.5,
@@ -22,7 +20,6 @@ addIngredient("rose",{
 
 addIngredient("rose_petal",{
     type:"decor",
-    group:"other",
     color:"#B0256F",
     shape:"bean",
     scale:0.5,
@@ -102,31 +99,10 @@ addIngredient("black_dye",{
     adj:"black",
 });
 
+editIngredient("dye",{
+    hidden:true
+});
+
 editIngredient("citric_acid",{
     color:"#CDE6DD"
 });
-
-addIngredient("korean_radish",{
-    type:"vegetable",
-    group:"vegetable",
-    color:"#CADFA6",
-    shape:"bulb_down",
-    scale:0.5,
-    keywords:"radish,korea,",
-    dishName:"korean_radish",
-    cookColor:"#BBAA95",
-    adj:"korean_radish",
-    broken:"chopped_korean_radish"
-  });
-
-addIngredient("chopped_korean_radish",{
-    type:"vegetable",
-    group:"vegetable",
-    color:"#CADFA6",
-    shape:"beans_some_flat",
-    scale:0.5,
-    dishName:"chopped_korean_radish",
-    cookColor:"#BBAA95",
-    hidden="true",
-    adj:"chopped_korean_radish"
-  });
