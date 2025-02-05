@@ -118,8 +118,8 @@ addIngredient("jackfruit",{
   });
 
 addIngredient("jackfruit_juice",{
-    type:"water",
-    group:"other",
+    type:"juice",
+    group:"water",
     behavior: 1,
     color:"#AB961F",
     shape:"droplets_some",
