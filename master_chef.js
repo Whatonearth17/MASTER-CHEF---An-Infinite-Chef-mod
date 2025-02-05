@@ -52,6 +52,31 @@ addIngredient("chopped_korean_radish",{
     adj:"chopped_korean_radish"
   });
 
+addIngredient("dinosaur_meat",{
+    type:"meat",
+    color:"#4C121B",
+    shape:"ear",
+    group:"meat",
+    scale:2.0,
+    keywords:"primitive,dino,old,meat",
+    dishName:"dino_meat",
+    cookColor:"#3E1E1B",
+    adj:"primitive_meat",
+    broken:"minced_dino_meat"
+  });
+
+addIngredient("minced_dino_meat",{
+    type:"meat",
+    group:"meat",
+    color:"#4C121B",
+    shape:"noodles",
+    scale:1.5,
+    dishName:"minced_dino_meat",
+    cookColor:"#3E1E1B",
+    hidden:true,
+    adj:"ground_primitive_meat"
+    });
+
 addIngredient("orange_dye",{
     type:"red_dye",
     color:"#E28315",
