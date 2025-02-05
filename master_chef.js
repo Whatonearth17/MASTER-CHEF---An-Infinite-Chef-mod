@@ -100,9 +100,15 @@ addIngredient("black_dye",{
 });
 
 editIngredient("dye",{
-    hidden=true
+    name:"random_dye",
+    adj:"random,dye",
+    keywords:"random,dye"
 });
 
 editIngredient("citric_acid",{
     color:"#CDE6DD"
+});
+
+editIngredient("red_40",{
+    color:"#D51D1D"
 });
