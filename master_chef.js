@@ -101,7 +101,9 @@ addIngredient("black_dye",{
 
 editIngredient("dye",{
     name:"random_dye",
-    color:"CDE6DD"
+    color:"CDE6DD",
+    keywords:"random,randomized,mystery,dye",
+    adj:"randomly_dyed"
 });
 
 editIngredient("citric_acid",{
