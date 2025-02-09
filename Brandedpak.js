@@ -15,3 +15,12 @@ addIngredient("cinnamon_crunch",{
     keywords:"cereal,cinnamon,crunch,toast,branded",
     dishName:"cinnamon_crunch",
   });
+
+addIngredient("fruit_loops",{
+    type:"bread",
+    color:["#DC7272","#FFD972","#BDDB72","#956EA2"],
+    shape:"torus",
+    scale:0.5,
+    keywords:"cereal,fruit,loop,branded",
+    dishName:"fruit_loops",
+  });
