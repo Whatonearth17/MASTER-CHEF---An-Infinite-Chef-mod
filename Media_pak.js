@@ -8,3 +8,13 @@ addIngredient("dalgona_cookie",{
     adj:"dalgona",
     broken:"breadcrumbs"
   });
+
+addIngredient("jamal",{
+    type:"doll",
+    color:"#4F3C2F",
+    shape:"figure",
+    scale:3.0,
+    keywords:"meme,jamal,kid,human,doll,black,idk",
+    dishName:"jamal",
+    adj:"jamal",
+  });
