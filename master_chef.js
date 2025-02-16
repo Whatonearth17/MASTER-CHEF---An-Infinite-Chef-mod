@@ -75,46 +75,6 @@ addIngredient("minced_dino_meat",{
     cookColor:"#3E1E1B",
     hidden:true,
     adj:"ground_primitive_meat"
-    });
-
-addIngredient("jellyfish",{
-    type:"fish",
-    color:"#BDD2D5",
-    shape:"jellyfish",
-    group:"fish",
-    scale:1.0,
-    a:0.5,
-    keywords:"fish,jelly,seafood",
-    dishName:"jellyfish",
-    cookColor:"#99AEB1",
-    adj:"jellyfish",
-    broken:"chopped_jellyfish"
-  });
-
-addIngredient("chopped_jellyfish",{
-    type:"fish",
-    group:"fish",
-    color:"#BDD2D5",
-    shape:"beans_some_flat",
-    scale:1.0,
-    a:0.5,
-    dishName:"chopped_jellyfish",
-    cookColor:"#99AEB1",
-    hidden:true,
-    adj:"chopped_jellyfish"
-    });
-
-addIngredient("jackfruit",{
-    type:"fruit",
-    color:"#ADBF77",
-    shape:"circle_thorny_ml",
-    group:"fruit",
-    scale:1.2,
-    keywords:"spiky,fruit,exotic,jack,stinky",
-    dishName:"jackfruit",
-    cookColor:"#3C4522",
-    adj:"jackfruit",
-    broken:"jackfruit_juice"
   });
 
 addIngredient("jackfruit_juice",{
@@ -127,6 +87,16 @@ addIngredient("jackfruit_juice",{
     keywords:"spiky,fruit,exotic,jack,stinky,juice",
     dishName:"jackfruit_juice",
     adj:"jackfruit_juice"
+    });
+
+addIngredient("shredded_pastry",{
+    type:"pastry",
+    color:"#B89559",
+    shape:"noodles",
+    scale:1.0,
+    keywords:"pastry,shred",
+    dishName:"shredded_pastry",
+    adj:"shredded_pastry"
     });
 
 addIngredient("orange_dye",{
@@ -212,4 +182,8 @@ editIngredient("citric_acid",{
 
 editIngredient("star_anise",{
     shape:"flower_x_thin",
+});
+
+editIngredient("pastry",{
+    broken:"shredded_pastry"
 });
