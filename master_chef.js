@@ -187,3 +187,6 @@ editIngredient("star_anise",{
 editIngredient("pastry",{
     broken:"shredded_pastry"
 });
+
+addRecipe("shredded_pastry+mozzarella+pistachio+honey","kunafa");
+
