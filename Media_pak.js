@@ -18,3 +18,13 @@ addIngredient("jamal",{
     dishName:"jamal",
     adj:"jamal",
   });
+
+addIngredient("the_observable_universe",{
+    type:"water",
+    color:"#000000",
+    shape:"square_round",
+    scale:9999.0,
+    keywords:"meme,universe,space,big,pleasehelpihavebeenstuckherefor10months",
+    dishName:"universe",
+    adj:"universal",
+  });
